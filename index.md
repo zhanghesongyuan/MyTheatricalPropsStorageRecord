@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## 欢迎来到 我的京剧道具娃娃制作练习
 
-You can use the [editor on GitHub](https://github.com/zhanghesongyuan/MyTheatricalPropsStorageRecord/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+![Image](icon-1024.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+京剧道具娃娃具有强烈的象征意义和艺术之美，很多接触到京剧的人都对京剧文化和京剧道具娃娃情有独钟。特别是喜欢京剧的人，对京剧道具娃娃的制作也会很感兴趣。如果你也喜欢制作京剧类的娃娃的话，你可以利用这个工具记录每次制作的详细信息，例如京剧娃娃角色分类是武生，花旦等，出自哪段经典京剧的原型，以及艺术特点等。你还可以记录每次计划制作的时间，帮助你规划和管理制作过程。
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+如果您遇到什么需要解答的问题，请发送您的问题到以下邮箱。
 
-```markdown
-Syntax highlighted code block
+我们将第一时间为您解答。
 
-# Header 1
-## Header 2
-### Header 3
+### 邮箱地址: zhanghesongyuan7@126.com
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhanghesongyuan/MyTheatricalPropsStorageRecord/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+谢谢！
